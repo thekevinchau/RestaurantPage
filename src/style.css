@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.display{
+    height: 100vh;
+}
+
+.NavBar{
+    background-color: red;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
